@@ -5,5 +5,5 @@
 <p style="color:red;">npm install -g swagger</p>
 <h2>Create New Project</h2>
 <p>Untuk memulai sebuah project baru, ketikan perintah berikut:</p>
-<p style="color:red;">swagger project create <nama-project></p>
+<p style="color:red;">swagger project create {nama-project} </p>
 </article>
